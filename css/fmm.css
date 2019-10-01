@@ -73,8 +73,8 @@ font-size:0;}
 .title h3{font-size:2em}
 .buttons{width:30%;float:right; margin-top: 0;}
 .servico{width:32%;}
-.servico:nth-child(2){margin-right:1%;}
-.servico:nth-child(3){margin-right:1%;}
+.servico:nth-child(2){margin-right:0.5%;}
+.servico:nth-child(3){margin-right:0.5%;}
 .newsletter input{width:60%;float:none;}
 .newsletter button{width:20%;float:none;}
 }

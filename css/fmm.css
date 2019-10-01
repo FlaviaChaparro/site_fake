@@ -60,7 +60,7 @@ font-size:0;}
 .btn{font-size:2em;}
 }
 @media  screen and (min-width:768px){
-.servico{width:49%;float: left; margin-right:2%;}
+.servico{width:45%;float: left; margin-right:2%;}
 .servico:nth-child(2){margin-right:0;}
 .newsletter h2{font-size:2em;}
 .newsletter h3{font-size:1.5em;}

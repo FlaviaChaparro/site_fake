@@ -60,7 +60,7 @@ font-size:0;}
 .btn{font-size:2em;}
 }
 @media  screen and (min-width:768px){
-.servico{width:45%;float: left; margin-right:2%;}
+.servico{width:40%;float: left; margin-right:2%;}
 .servico:nth-child(2){margin-right:0;}
 .newsletter h2{font-size:2em;}
 .newsletter h3{font-size:1.5em;}
@@ -73,8 +73,8 @@ font-size:0;}
 .title h3{font-size:2em}
 .buttons{width:30%;float:right; margin-top: 0;}
 .servico{width:32%;}
-.servico:nth-child(2){margin-right:0.1%;}
-.servico:nth-child(3){margin-right:0.1%;}
+.servico:nth-child(2){margin-right:2%;}
+.servico:nth-child(3){margin-right:2%;}
 .newsletter input{width:60%;float:none;}
 .newsletter button{width:20%;float:none;}
 }

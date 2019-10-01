@@ -74,7 +74,7 @@ font-size:0;}
 .buttons{width:30%;float:right; margin-top: 0;}
 .servico{width:32%;}
 .servico:nth-child(2){margin-right:2%;}
-.servico:nth-child(3){margin-right:0;}
+.servico:nth-child(3){margin-right:2%;}
 .newsletter input{width:60%;float:none;}
 .newsletter button{width:20%;float:none;}
 }
